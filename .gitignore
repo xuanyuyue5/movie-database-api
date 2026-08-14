@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.idea/
+__MACOSX/
+instance/
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Large local data files
+data/*.csv
+data/raw/
+credits.csv
+movies.csv
+
+.DS_Store
+Thumbs.db

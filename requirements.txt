@@ -1,0 +1,10 @@
+Flask>=3.1,<4
+flask-restx>=1.3,<2
+Flask-SQLAlchemy>=3.1,<4
+flask-jwt-extended>=4.7,<5
+pandas>=2.2,<4
+rapidfuzz>=3.14,<4
+matplotlib>=3.8,<4
+Werkzeug>=3.1,<4
+pytest>=8.0,<9
+requests>=2.32,<3
